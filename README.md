@@ -1,2 +1,1 @@
-# Google-Keep-App
-Created with CodeSandbox
+A Google Keep clone built with ReactJS.
